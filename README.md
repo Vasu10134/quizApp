@@ -15,10 +15,10 @@ This repository contains a Quiz App made with **HTML, CSS, and JavaScript**. It�
 - Lightweight and framework-free
 
 ## 🗂️ Project Structure
-/quiz-app
-│── index.html
-│── style.css
-│── script.js
+/quiz-app  
+│── index.html  
+│── style.css  
+│── script.js  
 
 
 ## 🎯 Purpose
